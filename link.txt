@@ -1,0 +1,3 @@
+Github: https://github.com/ragav7332/32_react_redux_task , 
+
+deployed URL : https://reacts-redux-tasks.netlify.app/
